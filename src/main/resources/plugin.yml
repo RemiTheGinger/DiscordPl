@@ -1,0 +1,10 @@
+name: DiscordPl
+version: ${project.version}
+main: org.hopto.pcrhome.discordpl.DiscordPl
+api-version: 1.13
+authors: [RemiTheGinger]
+description: A basic discord minecraft plugin to go with a discord bot
+commands:
+  discord:
+    description: Te donne un lien a notre serveur discord
+    usage: /discord
