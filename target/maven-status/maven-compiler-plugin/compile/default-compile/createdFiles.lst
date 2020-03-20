@@ -1,0 +1,9 @@
+org\hopto\pcrhome\discordpl\Commands\discord\PlayerCmd.class
+org\hopto\pcrhome\discordpl\chatEvents\PlayerServerInteract.class
+org\hopto\pcrhome\discordpl\chatEvents\MinecraftChat.class
+org\hopto\pcrhome\discordpl\Commands\minecraft\DiscordCmd.class
+org\hopto\pcrhome\discordpl\DiscordBot.class
+org\hopto\pcrhome\discordpl\chatEvents\DiscordChat.class
+org\hopto\pcrhome\discordpl\DiscordPl.class
+org\hopto\pcrhome\discordpl\Commands\discord\InfoCmd.class
+org\hopto\pcrhome\discordpl\Commands\discord\WhitelistCmd.class
