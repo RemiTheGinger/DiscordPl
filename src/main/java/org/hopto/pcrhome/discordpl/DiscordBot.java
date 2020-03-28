@@ -50,7 +50,7 @@ public class DiscordBot extends ListenerAdapter implements Listener {
 
     public void startBot() {
         try{
-            jda = new JDABuilder(AccountType.BOT).setToken(token).build();
+            jda = JDABuilder.createDefault(token).build();
         } catch (LoginException e){
             e.printStackTrace();
         }
